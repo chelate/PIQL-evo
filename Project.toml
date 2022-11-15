@@ -1,0 +1,19 @@
+name = "PIQL"
+uuid = "0aee70f9-b5c9-4b1d-bea5-2054d556b3e2"
+authors = ["chelate <42802644+chelate@users.noreply.github.com>"]
+version = "0.1.0"
+
+[deps]
+DataStructures = "864edb3b-99cc-5e75-8d2d-829cb0a9cfe8"
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+ElasticArrays = "fdbdab4c-e67f-52f5-8c3f-e7b388dad3d4"
+GLMakie = "e9467ef8-e4e7-5192-8a1a-b1aee30e663a"
+Graphs = "86223c79-3864-5bf0-83f7-82e725a168b6"
+IntervalSets = "8197267c-284f-5f27-9208-e0e47529a953"
+Makie = "ee78f7c6-11fb-53f2-987a-cfe4a2b5a57a"
+Memoize = "c03570c3-d221-55d1-a50c-7939bbd78826"
+PackageCompiler = "9b87118b-4619-50d2-8e1e-99f35a4d4d9d"
+Setfield = "efcf1570-3423-57d1-acb7-fd33fddbac46"
+SimpleChains = "de6bee2f-e2f4-4ec7-b6ed-219cc6f6e9e5"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
